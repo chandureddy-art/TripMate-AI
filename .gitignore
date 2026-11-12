@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Secrets and API keys
+.streamlit/secrets.toml
+.env
+
+# IDE
+.vscode/
